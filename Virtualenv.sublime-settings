@@ -1,0 +1,8 @@
+// Default settings for Virtualenv plugin:
+{
+    // Directory paths searched for virtualenvs.
+    // First one will be used as default destination for new virtualenvs.
+    "virtualenv_directories": [
+        "/Users/karl/c/python/envs",  // virtualenvwrapper $WORKON_HOME
+    ]
+}
